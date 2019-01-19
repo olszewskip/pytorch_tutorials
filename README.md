@@ -1,2 +1,2 @@
 # pytorch_tutorials
-pytorch.org/tutorials/
+https://pytorch.org/tutorials/
